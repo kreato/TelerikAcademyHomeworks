@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Third bit</title>
+	<style>
+		#example {
+    		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    		width: 25%;
+    		border-collapse: collapse;
+		}
+
+		#example td, #example th {
+    		font-size: 1em;
+    		border: 1px solid #98bf21;
+    		padding: 8px 7px 8px 7px;
+    		text-align: center;
+		}
+
+		#example th {
+    		font-size: 1.1em;
+    		padding-top: 5px;
+    		padding-bottom: 4px;
+    		background-color: #A7C942;
+    		color: #ffffff;
+		}
+
+		#example tr.alt td {
+    		color: #000000;
+    		background-color: #EAF2D3;
+		}
+		
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#label-result {
+			margin-left: 50px;
+		}
+		#input {
+			margin-left: 2px;
+		}
+
+		span {
+			background-color: #EAF2D3;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 5. Third bit</h1>
+			<ul>
+				<li>Write a boolean expression for finding if the bit <span>#3</span> (counting from 0) of a given integer.</li>
+				<li>The bits are counted from right to left, starting from bit <span>#0</span>.</li>
+				<li>The result of the expression should be either <span>1</span> or <span>0</span>.</li>
+			</ul>
+			<p><em>Example:</em></p>
+			<table id="example">
+			  <tr>
+			    <th>n</th>
+			    <th>binary representation</th>
+			    <th>bit #3</th>
+			  </tr>
+			  <tr>
+			    <td>5</td>
+			    <td>00000000 00000101</td>
+			    <td>0</td>
+			  </tr>
+			  <tr class="alt">
+			    <td>8</td>
+			    <td>00000000 00001000</td>
+			    <td>1</td>
+			  </tr>
+			  <tr>
+			    <td>0</td>
+			    <td>00000000 00000000</td>
+			    <td>0</td>
+			  </tr>
+			  <tr class="alt">
+			    <td>15</td>
+			    <td>00000000 00001111</td>
+			    <td>1</td>
+			  </tr>
+			  <tr>
+			    <td>5343</td>
+			    <td>00010100 11011111</td>
+			    <td>1</td>
+			  </tr>
+			  <tr class="alt">
+			    <td>62241</td>
+			    <td>11110011 00100001</td>
+			    <td>0</td>
+			  </tr>
+			</table>
+			<p>
+				<label for="input">Enter number:</label>
+				<input type="text" id="input" name="enterNumber" value="0">
+				<button onclick="thirdBit()">Check</button>
+				<label id="label-result">Bit #3:</label>
+		        <input type="text" id="result" disabled="disabled" />
+		        <br />
+		        <label>Binary repres.:</label>
+		        <input type="text" id="bitRepresentation" disabled="disabled" />
+			</p>
+			<script src="Third bit.js"></script>
+</body>
+</html>

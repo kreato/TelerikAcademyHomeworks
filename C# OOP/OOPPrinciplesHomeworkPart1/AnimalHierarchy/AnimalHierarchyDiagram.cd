@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimalHierarchy.Models.Animal" Collapsed="true">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAARAAAAEQAAAQAAAAEACAABAAAAAAAAAA=</HashCode>
+      <FileName>Models\Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnimalHierarchy.Models.Cat" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Models\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalHierarchy.Models.Dog" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Models\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalHierarchy.Models.Frog" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Models\Frog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalHierarchy.Models.Kitten" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Kitten.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalHierarchy.Models.Tomcat" Collapsed="true">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Tomcat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

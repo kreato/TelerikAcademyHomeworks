@@ -1,0 +1,33 @@
+table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 30%;
+    border-collapse: collapse;
+    border-bottom: 1px solid #dedede;
+}
+tr:nth-child(2n+1){
+	background-color: #ECECD8;
+}
+td, th {
+	border-right: 1px solid #dedede;
+	padding: 3px 7px 2px 7px;
+	border-bottom: 1px solid #dedede;
+}
+td:last-child, th:last-child {
+	border-right: none;
+}
+th {
+	text-align: left;
+	font-weight: lighter;
+	padding-bottom: 8px;
+	background-color: #4EB106;
+	color: #FFFFFF;
+}
+img {
+	vertical-align: middle;
+	height: 22px;
+	padding-right: 6px;
+}
+input[type="checkbox"]:disabled {
+background: gray;
+}

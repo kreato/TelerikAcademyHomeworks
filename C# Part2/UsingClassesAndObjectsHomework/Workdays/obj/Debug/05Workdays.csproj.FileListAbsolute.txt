@@ -1,0 +1,6 @@
+D:\Telerik Academy\UsingClassesAndObjectsHomework\Workdays\bin\Debug\Workdays.exe.config
+D:\Telerik Academy\UsingClassesAndObjectsHomework\Workdays\bin\Debug\Workdays.exe
+D:\Telerik Academy\UsingClassesAndObjectsHomework\Workdays\bin\Debug\Workdays.pdb
+D:\Telerik Academy\UsingClassesAndObjectsHomework\Workdays\obj\Debug\05Workdays.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\UsingClassesAndObjectsHomework\Workdays\obj\Debug\Workdays.exe
+D:\Telerik Academy\UsingClassesAndObjectsHomework\Workdays\obj\Debug\Workdays.pdb

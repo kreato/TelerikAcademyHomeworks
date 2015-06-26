@@ -1,0 +1,1 @@
+D:\Telerik Academy\UsingClassesAndObjectsHomework\SumIntegers\bin\Debug\SumIntegers.exe.config

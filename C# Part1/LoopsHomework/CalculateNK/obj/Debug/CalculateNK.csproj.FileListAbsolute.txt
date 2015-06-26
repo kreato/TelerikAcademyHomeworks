@@ -1,0 +1,6 @@
+D:\Telerik Academy\LoopsHomework\CalculateNK\bin\Debug\CalculateNK.exe.config
+D:\Telerik Academy\LoopsHomework\CalculateNK\bin\Debug\CalculateNK.exe
+D:\Telerik Academy\LoopsHomework\CalculateNK\bin\Debug\CalculateNK.pdb
+D:\Telerik Academy\LoopsHomework\CalculateNK\obj\Debug\CalculateNK.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\LoopsHomework\CalculateNK\obj\Debug\CalculateNK.exe
+D:\Telerik Academy\LoopsHomework\CalculateNK\obj\Debug\CalculateNK.pdb

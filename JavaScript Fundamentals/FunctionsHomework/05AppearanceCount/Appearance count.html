@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Appearance count</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#label-result {
+			margin-left: 50px;
+		}
+		#arr {
+			width: 686px;
+			margin-left: 1px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 5. Appearance count</h1>
+	<ul>
+		<li>Write a function that counts how many times given number appears in given array.</li>
+		<li>Write a test function to check if the function is working correctly.</li>
+	</ul>
+	<p>
+		<label for="arr">Enter a sequence of numbers<br />separated by ', ':</label>
+		<input type="text" id="arr" name="enterASequence">
+		<br />
+		<label for="number">Enter a number:</label>
+		<input type="text" id="number" name="enterANumber">
+		<button onclick="appearanceCount()">Count</button>
+		<label id="label-result">Appearance of this number:</label>
+        <input type="text" id="result" disabled="disabled" />
+	</p>
+	<script src="Appearance count.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\Telerik Academy\ExceptionHandlingHomework\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+D:\Telerik Academy\ExceptionHandlingHomework\EnterNumbers\bin\Debug\EnterNumbers.exe
+D:\Telerik Academy\ExceptionHandlingHomework\EnterNumbers\bin\Debug\EnterNumbers.pdb
+D:\Telerik Academy\ExceptionHandlingHomework\EnterNumbers\obj\Debug\EnterNumbers.exe
+D:\Telerik Academy\ExceptionHandlingHomework\EnterNumbers\obj\Debug\EnterNumbers.pdb

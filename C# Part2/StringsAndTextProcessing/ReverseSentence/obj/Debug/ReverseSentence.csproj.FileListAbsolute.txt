@@ -1,0 +1,1 @@
+D:\Telerik Academy\StringsAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.exe.config

@@ -1,0 +1,6 @@
+D:\Telerik Academy\StringsAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.exe
+D:\Telerik Academy\StringsAndTextProcessing\ReverseSentence\bin\Debug\ReverseSentence.pdb
+D:\Telerik Academy\StringsAndTextProcessing\ReverseSentence\obj\Debug\13ReverseSentence.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\ReverseSentence\obj\Debug\ReverseSentence.exe
+D:\Telerik Academy\StringsAndTextProcessing\ReverseSentence\obj\Debug\ReverseSentence.pdb

@@ -1,0 +1,1 @@
+D:\Telerik Academy\LoopsHomework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config

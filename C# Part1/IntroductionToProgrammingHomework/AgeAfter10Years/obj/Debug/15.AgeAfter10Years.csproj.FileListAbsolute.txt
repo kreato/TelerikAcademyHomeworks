@@ -1,0 +1,6 @@
+D:\Telerik Academy\IntroductionToProgrammingHomework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+D:\Telerik Academy\IntroductionToProgrammingHomework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+D:\Telerik Academy\IntroductionToProgrammingHomework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+D:\Telerik Academy\IntroductionToProgrammingHomework\AgeAfter10Years\obj\Debug\15.AgeAfter10Years.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\IntroductionToProgrammingHomework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+D:\Telerik Academy\IntroductionToProgrammingHomework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

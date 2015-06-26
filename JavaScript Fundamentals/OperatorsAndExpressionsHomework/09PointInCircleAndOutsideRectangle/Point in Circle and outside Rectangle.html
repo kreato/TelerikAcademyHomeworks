@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Point in Circle and outside Rectangle</title>
+	<style>
+		#example {
+    		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    		width: 25%;
+    		border-collapse: collapse;
+		}
+
+		#example td, #example th {
+    		font-size: 1em;
+    		border: 1px solid #98bf21;
+    		padding: 8px 7px 8px 7px;
+    		text-align: center;
+		}
+
+		#example th {
+    		font-size: 1.1em;
+    		padding-top: 5px;
+    		padding-bottom: 4px;
+    		background-color: #A7C942;
+    		color: #ffffff;
+		}
+
+		#example tr.alt td {
+    		color: #000000;
+    		background-color: #EAF2D3;
+		}
+		
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#label-result {
+			margin-left: 50px;
+		}
+
+		span {
+			background-color: #EAF2D3;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 9. Point in Circle and outside Rectangle</h1>
+			<ul>
+				<li>Write an expression that checks for given point <span>P(x, y)</span> if it is within the circle <span>K( (1,1), 3)</span> and out of the rectangle <span>R(top=1, left=-1, width=6, height=2)</span>.</li>
+			</ul>
+			<p><em>Example:</em></p>
+			<table id="example">
+			  <tr>
+			    <th>x</th>
+			    <th>y</th>
+			    <th>inside K & outside of R</th>
+			  </tr>
+			  <tr>
+			    <td>1</td>
+			    <td>4</td>
+			    <td>yes</td>
+			  </tr>
+			  <tr class="alt">
+			    <td>3</td>
+			    <td>2</td>
+			    <td>yes</td>
+			  </tr>
+			  <tr>
+			    <td>0</td>
+			    <td>1</td>
+			    <td>no</td>
+			  </tr>
+			  <tr class="alt">
+			    <td>4</td>
+			    <td>1</td>
+			    <td>no</td>
+			  </tr>
+			  <tr>
+			    <td>2</td>
+			    <td>0</td>
+			    <td>no</td>
+			  </tr>
+			  <tr class="alt">
+			    <td>4</td>
+			    <td>0</td>
+			    <td>no</td>
+			  </tr>
+			  <tr>
+			    <td>2.5</td>
+			    <td>1.5</td>
+			    <td>yes</td>
+			  </tr>
+			  <tr class="alt">
+			    <td>3.5</td>
+			    <td>1.5</td>
+			    <td>yes</td>
+			  </tr>
+			  <tr>
+			    <td>-100</td>
+			    <td>-100</td>
+			    <td>no</td>
+			  </tr>
+			</table>
+			<p>
+				<label for="input1">X:</label>
+				<input type="text" id="input1" name="x" value="0">
+				<label for="input2">Y:</label>
+				<input type="text" id="input2" name="y" value="0">
+				<button onclick="inCircleOutRect()">Check</button>
+				<label id="label-result">Inside K & Outside of R?:</label>
+		        <input type="text" id="result" disabled="disabled" />
+			</p>
+			<script src="Point in Circle and outside Rectangle.js"></script>
+</body>
+</html>

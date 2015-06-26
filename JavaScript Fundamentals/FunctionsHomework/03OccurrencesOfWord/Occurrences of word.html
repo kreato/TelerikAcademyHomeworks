@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Occurrences of word</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#label-result {
+			margin-left: 50px;
+		}
+
+		#text {
+			width: 500px;
+			height: 200px;
+			margin-left: 12px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 3. Occurrences of word</h1>
+	<ul>
+		<li>Write a function that finds all the occurrences of word in a text.</li>
+		<li>The search can be case sensitive or case insensitive.</li>
+		<li>Use function overloading.</li>
+	</ul>
+	<p>
+		<label for="text">Enter a text:</label>
+		<textarea id="text" name="enterAText"></textarea>
+		<br />
+		<label for="check">Case sensitive?:</label>
+    	<input id="check" type="checkbox" />
+    	<br />
+		<label for="word">Enter a word:</label>
+		<input type="text" id="word" name="enterAWord">
+		<button onclick="occurrencesofWord()">Search</button>
+		<br />
+		<label id="label-result">Found?:</label>
+        <input type="text" id="result" disabled="disabled" />
+	</p>
+	<script src="Occurrences of word.js"></script>
+</body>
+</html>

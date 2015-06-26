@@ -1,0 +1,6 @@
+D:\Telerik Academy\StringsAndTextProcessing\DateDifference\bin\Debug\DateDifference.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\DateDifference\bin\Debug\DateDifference.exe
+D:\Telerik Academy\StringsAndTextProcessing\DateDifference\bin\Debug\DateDifference.pdb
+D:\Telerik Academy\StringsAndTextProcessing\DateDifference\obj\Debug\16DateDifference.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\DateDifference\obj\Debug\DateDifference.exe
+D:\Telerik Academy\StringsAndTextProcessing\DateDifference\obj\Debug\DateDifference.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\OrderWords\bin\Debug\OrderWords.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\OrderWords\bin\Debug\OrderWords.exe
+D:\Telerik Academy\StringsAndTextProcessing\OrderWords\bin\Debug\OrderWords.pdb
+D:\Telerik Academy\StringsAndTextProcessing\OrderWords\obj\Debug\OrderWords.exe
+D:\Telerik Academy\StringsAndTextProcessing\OrderWords\obj\Debug\OrderWords.pdb

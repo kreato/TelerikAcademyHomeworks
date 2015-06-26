@@ -1,0 +1,1 @@
+D:\Telerik Academy\MethodsHomework\SayHello\bin\Debug\SayHello.exe.config

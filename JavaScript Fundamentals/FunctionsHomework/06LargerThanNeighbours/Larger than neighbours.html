@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Larger than neighbours</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#label-result {
+			margin-left: 50px;
+		}
+		#arr {
+			width: 670px;
+			margin-left: 1px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 6. Larger than neighbours</h1>
+	<ul>
+		<li>Write a function that checks if the element at given position in given array of integers is bigger than its two neighbours (when such exist).</li>
+	</ul>
+	<p>
+		<label for="arr">Enter a sequence of numbers<br />separated by ', ':</label>
+		<input type="text" id="arr" name="enterASequence" value="2, 5, 3, 5, 6, 8, 10, 4, 6, 13, 4, 5, 7, 30, 5, 0, 2, 7, 3, 9, 5, 8, 10, 15, 16, 15, 3, 35, 7, 19, 17, 4, 1, 0, -3, -6, -9">
+		<br />
+		<label for="position">Enter a position:</label>
+		<input type="text" id="position" name="enterANumber">
+		<button onclick="checkIfLarger()">Check</button>
+		<label id="label-result">Larger than neighbours?:</label>
+        <input type="text" id="result" disabled="disabled" />
+	</p>
+	<script src="Larger than neighbours.js"></script>
+</body>
+</html>

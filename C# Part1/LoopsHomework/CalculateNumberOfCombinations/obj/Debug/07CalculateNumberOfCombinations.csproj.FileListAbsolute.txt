@@ -1,0 +1,6 @@
+D:\Telerik Academy\LoopsHomework\CalculateNumberOfCombinations\bin\Debug\CalculateNumberOfCombinations.exe.config
+D:\Telerik Academy\LoopsHomework\CalculateNumberOfCombinations\bin\Debug\CalculateNumberOfCombinations.exe
+D:\Telerik Academy\LoopsHomework\CalculateNumberOfCombinations\bin\Debug\CalculateNumberOfCombinations.pdb
+D:\Telerik Academy\LoopsHomework\CalculateNumberOfCombinations\obj\Debug\07CalculateNumberOfCombinations.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\LoopsHomework\CalculateNumberOfCombinations\obj\Debug\CalculateNumberOfCombinations.exe
+D:\Telerik Academy\LoopsHomework\CalculateNumberOfCombinations\obj\Debug\CalculateNumberOfCombinations.pdb

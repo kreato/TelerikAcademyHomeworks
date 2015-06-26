@@ -1,0 +1,1 @@
+D:\Telerik Academy\ConditionalStatementsHomework\BonusScore\bin\Debug\BonusScore.exe.config

@@ -1,0 +1,6 @@
+D:\Telerik Academy\StringsAndTextProcessing\DateInBulgarian\bin\Debug\DateInBulgarian.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\DateInBulgarian\bin\Debug\DateInBulgarian.exe
+D:\Telerik Academy\StringsAndTextProcessing\DateInBulgarian\bin\Debug\DateInBulgarian.pdb
+D:\Telerik Academy\StringsAndTextProcessing\DateInBulgarian\obj\Debug\17DateInBulgarian.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\DateInBulgarian\obj\Debug\DateInBulgarian.exe
+D:\Telerik Academy\StringsAndTextProcessing\DateInBulgarian\obj\Debug\DateInBulgarian.pdb

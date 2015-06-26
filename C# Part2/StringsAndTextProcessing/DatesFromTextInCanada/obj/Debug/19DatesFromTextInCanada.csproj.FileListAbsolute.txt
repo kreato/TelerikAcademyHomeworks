@@ -1,0 +1,6 @@
+D:\Telerik Academy\StringsAndTextProcessing\DatesFromTextInCanada\bin\Debug\DatesFromTextInCanada.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\DatesFromTextInCanada\bin\Debug\DatesFromTextInCanada.exe
+D:\Telerik Academy\StringsAndTextProcessing\DatesFromTextInCanada\bin\Debug\DatesFromTextInCanada.pdb
+D:\Telerik Academy\StringsAndTextProcessing\DatesFromTextInCanada\obj\Debug\19DatesFromTextInCanada.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\DatesFromTextInCanada\obj\Debug\DatesFromTextInCanada.exe
+D:\Telerik Academy\StringsAndTextProcessing\DatesFromTextInCanada\obj\Debug\DatesFromTextInCanada.pdb

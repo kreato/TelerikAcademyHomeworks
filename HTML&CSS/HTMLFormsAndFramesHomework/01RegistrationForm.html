@@ -1,0 +1,143 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>RegForm</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        table, td, th {
+            border: 1px solid black;
+        }
+        .row {
+            background-color: #99c7f7;
+        }
+    </style>
+</head>
+<body>
+    <form method="get" action="/">
+        <table>
+            <tfoot>
+                <tr class="row">
+                    <td colspan="2" align="center">
+                        <input type="submit" value="Submit" />
+                        <input type="reset" value="Clean This Form" />
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <th><span>Last Name</span></th>
+                    <td>
+                        <input type="text" name="Last Name" placeholder="Enter your last name here" autofocus="autofocus" />
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>First Name</span></th>
+                    <td>
+                        <input type="text" name="First Name" placeholder="Enter your first name here" />
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>Address</span></th>
+                    <td>
+                        <textarea name="Address" placeholder="Enter your address here" rows="4" cols="30"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>City</span></th>
+                    <td>
+                        <input type="text" name="City" placeholder="Enter your city here" />
+                        <span>State</span>
+                        <input type="text" name="State" placeholder="If available" size="5" />
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>Country</span></th>
+                    <td>
+                        <select name="Country">
+                            <option value="0" selected="selected">
+                                Choose a country
+                            </option>
+                            <option value="1">
+                                Bulgaria
+                            </option>
+                            <option value="2">
+                                USA
+                            </option>
+                            <option value="3">
+                                China
+                            </option>
+                            <option value="4">
+                                Russia
+                            </option>
+                            <option value="5">
+                                South Korea
+                            </option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>Phone(country code, <br />area code, number)</span></th>
+                    <td>
+                        <span>(+</span>
+                        <input type="tel" pattern="[0-9]{3}" size="1" required="required" />
+                        <span>)</span>
+                        <input type="tel" pattern="[0-9]{3}" size="1" required="required" />
+                        <input type="tel" pattern="[0-9]{6}" size="10" required="required" />
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>E-mail</span></th>
+                    <td>
+                        <input type="email" pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}" placeholder="sample@email.com">
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>Birth date</span></th>
+                    <td>
+                        <input type="date" />
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>Gender</span></th>
+                    <td>
+                        <select name="Gender">
+                            <option value="0" selected="selected">
+                                Select a gender
+                            </option>
+                            <option value="1">
+                                Male
+                            </option>
+                            <option value="2">
+                                Female
+                            </option>
+                            <option value="3">
+                                Unidentified
+                            </option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>Starting date</span></th>
+                    <td>
+                        <input type="radio" id="spring" name="date" />
+                        <label for="spring">Spring 2015</label>
+                        <input type="radio" id="summer" name="date" />
+                        <label for="summer">Summer 2015</label>
+                    </td>
+                </tr>
+                <tr>
+                    <th><span>Comments/Questions</span></th>
+                    <td>
+                        <textarea name="Comments" placeholder="Write a comment or ask a question" rows="6" cols="30"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Form</title>
+</head>
+<body>
+<form method="GET" action="/">
+	<div>
+		<label for="mem-name">
+			<span>Member name:</span>
+		<input type="text" id="mem-name" name="MemberName" placeholder="Enter name" autofocus="autofocus" required="true">
+		</label>
+		<span><strong>*req</strong></span>
+	</div>
+	<div>
+		<label for="mail">
+			<span>Email:</span>
+		<input type="text" id="mail" name="Email" placeholder="ex: myname@example.com" required="true">
+		</label>
+		<span><strong>*req</strong></span>
+	</div>
+	<div>
+		<label for="school">
+			<span>School:</span>
+		<input type="text" id="school" name="School" placeholder="Enter school" required="true">
+		</label>
+		<span><strong>*req</strong></span>
+	</div>
+	<div>
+		<input type="image" src="submit.png" name="submitBtn" alt="Submit" />
+	</div>
+</form>
+</body>
+</html>

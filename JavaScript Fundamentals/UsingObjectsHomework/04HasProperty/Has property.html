@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='UTF-8' />
+	<title>Has property</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 4. Has property</h1>
+	<ul>
+		<li>Write a function that checks if a given object contains a given property.</li>
+		<p>
+			<ul type="none">
+				<li>var obj  = …;</li>
+				<li>var hasProp = hasProperty(obj, 'length');</li>
+			</ul>
+		</p>
+	</ul>
+	<p>
+		Example:<br />
+		<strong>game = {<br />
+		title: 'GTAV',<br />
+		developer: 'Rockstar North',<br />
+		publisher: 'Rockstar Games',<br />
+		score: 9,<br />
+		adjective: 'Superb',<br />
+		price: 34.45,<br />
+		currency: '$',<br />
+		generes: ['Third-Person', 'Open-World']<br />
+		};</strong>
+
+	</p>
+	<p>
+		<label>Enter property from the example:</label>
+		<input type="text" id="input">
+		<button onclick="check()">Check</button>
+		<label id="label-result">result:</label>
+        <input type="text" id="result" disabled="disabled" />
+	</p>
+	<script src="Has property.js"></script>
+</body>
+</html>

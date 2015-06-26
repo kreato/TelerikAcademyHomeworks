@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Selection sort</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#label-result {
+			margin-left: 50px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 5. Selection sort</h1>
+	<ul>
+		<li>Sorting an array means to arrange its elements in increasing order.</li>
+		<li>Write a script to sort an array.</li>
+		<li>Use the <a href="http://en.wikipedia.org/wiki/Selection_sort">selection sort</a> algorithm: Find the smallest element, move it at the first position, find the smallest from the rest, move it at the second position, etc.</li>
+	</ul>
+	<p><em>Hint: Use a second array</em></p>
+	<p>
+		<label for="input">Enter a sequence of numbers <br />separated by ', ':</label>
+		<input type="text" id="input" name="enterASequence">
+		<button onclick="selectionSort()">Sort</button>
+		<label id="label-result">Sorted array:</label>
+        <input type="text" id="result" disabled="disabled" />
+	</p>
+	<script src="Selection sort.js"></script>
+</body>
+</html>

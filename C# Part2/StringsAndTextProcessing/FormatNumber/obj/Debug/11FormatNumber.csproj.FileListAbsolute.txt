@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.exe
+D:\Telerik Academy\StringsAndTextProcessing\FormatNumber\bin\Debug\FormatNumber.pdb
+D:\Telerik Academy\StringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.exe
+D:\Telerik Academy\StringsAndTextProcessing\FormatNumber\obj\Debug\FormatNumber.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+D:\Telerik Academy\StringsAndTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+D:\Telerik Academy\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+D:\Telerik Academy\StringsAndTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

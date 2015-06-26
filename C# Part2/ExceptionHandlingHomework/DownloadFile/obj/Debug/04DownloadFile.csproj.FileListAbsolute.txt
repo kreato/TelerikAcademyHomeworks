@@ -1,0 +1,6 @@
+D:\Telerik Academy\ExceptionHandlingHomework\DownloadFile\bin\Debug\DownloadFile.exe.config
+D:\Telerik Academy\ExceptionHandlingHomework\DownloadFile\bin\Debug\DownloadFile.exe
+D:\Telerik Academy\ExceptionHandlingHomework\DownloadFile\bin\Debug\DownloadFile.pdb
+D:\Telerik Academy\ExceptionHandlingHomework\DownloadFile\obj\Debug\04DownloadFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\ExceptionHandlingHomework\DownloadFile\obj\Debug\DownloadFile.exe
+D:\Telerik Academy\ExceptionHandlingHomework\DownloadFile\obj\Debug\DownloadFile.pdb

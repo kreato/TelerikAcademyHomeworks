@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\LettersCount\bin\Debug\LettersCount.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\LettersCount\bin\Debug\LettersCount.exe
+D:\Telerik Academy\StringsAndTextProcessing\LettersCount\bin\Debug\LettersCount.pdb
+D:\Telerik Academy\StringsAndTextProcessing\LettersCount\obj\Debug\LettersCount.exe
+D:\Telerik Academy\StringsAndTextProcessing\LettersCount\obj\Debug\LettersCount.pdb

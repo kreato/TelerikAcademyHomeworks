@@ -1,0 +1,6 @@
+D:\Telerik Academy\ExceptionHandlingHomework\ReadFileContents\bin\Debug\ReadFileContents.exe.config
+D:\Telerik Academy\ExceptionHandlingHomework\ReadFileContents\bin\Debug\ReadFileContents.exe
+D:\Telerik Academy\ExceptionHandlingHomework\ReadFileContents\bin\Debug\ReadFileContents.pdb
+D:\Telerik Academy\ExceptionHandlingHomework\ReadFileContents\obj\Debug\03ReadFileContents.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\ExceptionHandlingHomework\ReadFileContents\obj\Debug\ReadFileContents.exe
+D:\Telerik Academy\ExceptionHandlingHomework\ReadFileContents\obj\Debug\ReadFileContents.pdb

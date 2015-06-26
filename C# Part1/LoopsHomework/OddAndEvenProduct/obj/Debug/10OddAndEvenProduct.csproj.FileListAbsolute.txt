@@ -1,0 +1,5 @@
+D:\Telerik Academy\LoopsHomework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+D:\Telerik Academy\LoopsHomework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+D:\Telerik Academy\LoopsHomework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+D:\Telerik Academy\LoopsHomework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+D:\Telerik Academy\LoopsHomework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

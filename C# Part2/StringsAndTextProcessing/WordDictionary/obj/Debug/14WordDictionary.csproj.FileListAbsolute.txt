@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.exe
+D:\Telerik Academy\StringsAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.pdb
+D:\Telerik Academy\StringsAndTextProcessing\WordDictionary\obj\Debug\WordDictionary.exe
+D:\Telerik Academy\StringsAndTextProcessing\WordDictionary\obj\Debug\WordDictionary.pdb

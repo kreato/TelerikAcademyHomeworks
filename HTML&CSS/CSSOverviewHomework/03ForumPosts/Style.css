@@ -1,0 +1,45 @@
+body {
+	background-color: #A9A9A9;
+}
+body>header {
+	text-align: center;
+	font-size: 24px;
+}
+h1 {
+	color: #F9F9D1;
+}
+ul li{
+	list-style-type: none;
+}
+ul li a:link {
+	font-size: 23px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+ul li a:visited{
+	color: #FFFFFF;
+}
+ul li a.current {
+	background-color: #D6D8E2;
+}
+ul li:last-child a{
+	text-decoration: underline;
+}
+section article header h1 {
+	font-size: 28px;
+}
+footer p{
+	font-size: 13px;
+}
+footer p a:link {
+	text-decoration: none;
+	color: black;
+}
+footer p a:visited {
+	color: black;
+}
+body>footer {
+text-align: center;
+font-size: 18px;
+}

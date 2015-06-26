@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lexicographically comparison</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+		
+		#result {
+			width:590px;
+			background-color: #EAF2D3;
+		}
+
+		#label-result {
+			margin-left: 86px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 2. Lexicographically comparison</h1>
+	<ul>
+		<li>Write a script that compares two char arrays lexicographically (letter by letter).</li>
+	</ul>
+	<p>
+		<label for="input1">Enter first string:</label>
+		<input type="text" id="input1" name="firstString">
+		<label for="input2">Enter second string:</label>
+		<input type="text" id="input2" name="secondString">
+		<button onclick="compare()">Compare</button>
+		<br />
+		<label id="label-result">Result:</label>
+        <input type="text" id="result" disabled="disabled">
+	</p>
+	<script src="Lexicographically comparison.js"></script>
+</body>
+</html>

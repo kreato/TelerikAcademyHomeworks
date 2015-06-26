@@ -1,0 +1,6 @@
+D:\Telerik Academy\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe
+D:\Telerik Academy\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.pdb
+D:\Telerik Academy\StringsAndTextProcessing\EncodeDecode\obj\Debug\07EncodeDecode.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.exe
+D:\Telerik Academy\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.pdb

@@ -1,0 +1,1 @@
+D:\Telerik Academy\OperatorsAndExpressionsHomework\PointInsideACircleAndOutsideOfARectangle\bin\Debug\PointInsideACircleAndOutsideOfARectangle.exe.config

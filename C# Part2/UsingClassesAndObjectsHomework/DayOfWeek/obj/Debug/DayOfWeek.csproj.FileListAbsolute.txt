@@ -1,0 +1,1 @@
+D:\Telerik Academy\UsingClassesAndObjectsHomework\DayOfWeek\bin\Debug\DayOfWeek.exe.config

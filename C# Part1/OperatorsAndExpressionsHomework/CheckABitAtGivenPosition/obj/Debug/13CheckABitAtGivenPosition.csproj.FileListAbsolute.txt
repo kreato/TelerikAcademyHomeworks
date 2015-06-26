@@ -1,0 +1,1 @@
+D:\Telerik Academy\OperatorsAndExpressionsHomework\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config

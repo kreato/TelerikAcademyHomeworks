@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='UTF-8' />
+	<title>First larger than neighbours</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#arr {
+			width: 670px;
+			margin-left: 1px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 7. First larger than neighbours</h1>
+	<ul>
+		<li>Write a function that returns the index of the first element in array that is larger than its neighbours or -1, if there’s no such element.</li>
+		<li>Use the function from the previous exercise.</li>
+	</ul>
+	<p>
+		<label for="arr">Enter a sequence of numbers<br />separated by ', ':</label>
+		<input type="text" id="arr" name="enterASequence" value="2, 5, 3, 5, 6, 8, 10, 4, 6, 13, 4, 5, 7, 30, 5, 0, 2, 7, 3, 9, 5, 8, 10, 15, 16, 15, 3, 35, 7, 19, 17, 4, 1, 0, -3, -6, -9">
+		<button onclick="searchIndex()">Search</button>
+		<br />
+		<label id="label-result">Index of the first element larger than neighbours:</label>
+		<br />
+        <input type="text" id="result" disabled="disabled" />
+	</p>
+	<script src="First larger than neighbours.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+D:\Telerik Academy\StringsAndTextProcessing\ExtractTextFromHtml\bin\Debug\ExtractTextFromHtml.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\ExtractTextFromHtml\bin\Debug\ExtractTextFromHtml.exe
+D:\Telerik Academy\StringsAndTextProcessing\ExtractTextFromHtml\bin\Debug\ExtractTextFromHtml.pdb
+D:\Telerik Academy\StringsAndTextProcessing\ExtractTextFromHtml\obj\Debug\25ExtractTextFromHtml.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\ExtractTextFromHtml\obj\Debug\ExtractTextFromHtml.exe
+D:\Telerik Academy\StringsAndTextProcessing\ExtractTextFromHtml\obj\Debug\ExtractTextFromHtml.pdb
+D:\Telerik Academy\StringsAndTextProcessing\SubStringInText\bin\Debug\ExtractTextFromHtml.exe.config

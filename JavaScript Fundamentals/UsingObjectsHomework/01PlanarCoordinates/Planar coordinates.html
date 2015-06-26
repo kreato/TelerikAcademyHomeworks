@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Planar coordinates</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label, span {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#x1, #y1, #x2, #y2, #x3, #y3 {
+			width: 50px;
+		}
+
+		#result {
+			width: 316px;
+			height: 100px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 1. Planar coordinates</h1>
+	<ul>
+		<li>Write functions for working with shapes in standard Planar coordinate system.</li>
+		<ul>
+			<li><strong>Points</strong> are represented by coordinates P(X, Y)</li>
+			<li><strong>Lines</strong> are represented by two points, marking their beginning and ending L(P1(X1,Y1), P2(X2,Y2))</li>
+		</ul>
+		<li>Calculate the distance between two points.</li>
+		<li>Check if three segment lines can form a triangle.</li>
+	</ul>
+	<p>
+		<span>Point 1 - </span>
+		<label for="x1">Enter X:</label>
+		<input type="text" id="x1">
+		<label for="y1">Enter Y:</label>
+		<input type="text" id="y1">
+    	<br />
+    	<span>Point 2 - </span>
+		<label for="x2">Enter X:</label>
+		<input type="text" id="x2">
+		<label for="y2">Enter Y:</label>
+		<input type="text" id="y2">
+		<br />
+		<span>Point 3 - </span>
+		<label for="x3">Enter X:</label>
+		<input type="text" id="x3">
+		<label for="y3">Enter Y:</label>
+		<input type="text" id="y3">
+		<button onclick="planarCoordinates()">Print</button>
+		<br />
+		<label id="label-result">Result:</label>
+        <textarea id="result" disabled="disabled"></textarea>
+	</p>
+	<script src="Planar coordinates.js"></script>
+</body>
+</html>

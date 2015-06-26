@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+	<title>Number as words</title>
+	<style>
+		#example {
+    		font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    		width: 30%;
+    		border-collapse: collapse;
+		}
+
+		#example td, #example th {
+    		font-size: 1em;
+    		border: 1px solid #98bf21;
+    		padding: 8px 7px 8px 7px;
+    		text-align: center;
+		}
+
+		#example th {
+    		font-size: 1.1em;
+    		padding-top: 5px;
+    		padding-bottom: 4px;
+    		background-color: #A7C942;
+    		color: #ffffff;
+		}
+
+		#example tr.alt td {
+    		color: #000000;
+    		background-color: #EAF2D3;
+		}
+
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#label-result {
+			margin-left: 50px;
+		}
+
+		#result {
+			width: 15%;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 8. Number as words</h1>
+	<ul>
+		<li>Write a script that converts a number in the range [0…999] to words, corresponding to its English pronunciation.</li>
+	</ul>
+	<p><em>Example:</em></p>
+	<table id="example">
+	  <tr>
+	    <th>numbers</th>
+	    <th>number as words</th>
+	  </tr>
+	  <tr>
+	    <td>0</td>
+	    <td>Zero</td>
+	  </tr>
+	  <tr class="alt">
+	    <td>9</td>
+	    <td>Nine</td>
+	  </tr>
+	  <tr>
+	    <td>10</td>
+	    <td>Ten</td>
+	  </tr>
+	  <tr class="alt">
+	    <td>12</td>
+	    <td>Twelve</td>
+	  </tr>
+	  <tr>
+	    <td>19</td>
+	    <td>Nineteen</td>
+	  </tr>
+	  <tr class="alt">
+	    <td>25</td>
+	    <td>Twenty five</td>
+	  </tr>
+	  <tr>
+	    <td>98</td>
+	    <td>Ninety eight</td>
+	  </tr>
+	  <tr class="alt">
+	    <td>273</td>
+	    <td>Two hundred and seventy three</td>
+	  </tr>
+	  <tr>
+	    <td>400</td>
+	    <td>Four hundred</td>
+	  </tr>
+	  <tr class="alt">
+	    <td>501</td>
+	    <td>Five hundred and one</td>
+	  </tr>
+	  <tr>
+	    <td>617</td>
+	    <td>Six hundred and seventeen</td>
+	  </tr>
+	  <tr class="alt">
+	    <td>711</td>
+	    <td>Seven hundred and eleven</td>
+	  </tr>
+	  <tr>
+	    <td>999</td>
+	    <td>Nine hundred and ninety nine</td>
+	  </tr>
+	</table>
+	<p>
+		<label for="input">Enter a number:</label>
+		<input type="number" id="input" name="enterANumber" min="0" max="999">
+		<button onclick="numAsWord()">Check</button>
+		<label id="label-result">Number as words:</label>
+        <input type="text" id="result" disabled="disabled" />
+	</p>
+	<script src="Number as words.js"></script>
+</body>
+</html>

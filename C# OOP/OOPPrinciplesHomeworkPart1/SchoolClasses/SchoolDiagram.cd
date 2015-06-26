@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SchoolClasses.Models.Class" Collapsed="true">
+    <Position X="10.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMAAAACAAEAAAAAAAAAAAAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Models\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolClasses.Models.Discipline" Collapsed="true">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMAAAAABAEAIAAAASAAAAEAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Models\Discipline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolClasses.Models.Person" Collapsed="true">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Models\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolClasses.Models.School" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\School.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolClasses.Models.Student" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolClasses.Models.Teacher" Collapsed="true">
+    <Position X="10.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

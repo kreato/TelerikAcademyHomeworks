@@ -1,0 +1,11 @@
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.pdb
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.exe
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.pdb
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\System.Web.Http.dll
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\Newtonsoft.Json.dll
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\System.Web.Http.xml
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\System.Net.Http.Formatting.xml
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\obj\Debug\12ParseURL.csprojResolveAssemblyReference.cache

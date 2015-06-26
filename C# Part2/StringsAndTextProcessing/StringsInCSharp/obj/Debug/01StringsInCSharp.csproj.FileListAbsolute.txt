@@ -1,0 +1,6 @@
+D:\Telerik Academy\StringsAndTextProcessing\StringsInCSharp\bin\Debug\StringsInCSharp.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\StringsInCSharp\bin\Debug\StringsInCSharp.exe
+D:\Telerik Academy\StringsAndTextProcessing\StringsInCSharp\bin\Debug\StringsInCSharp.pdb
+D:\Telerik Academy\StringsAndTextProcessing\StringsInCSharp\obj\Debug\01StringsInCSharp.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\StringsInCSharp\obj\Debug\StringsInCSharp.exe
+D:\Telerik Academy\StringsAndTextProcessing\StringsInCSharp\obj\Debug\StringsInCSharp.pdb

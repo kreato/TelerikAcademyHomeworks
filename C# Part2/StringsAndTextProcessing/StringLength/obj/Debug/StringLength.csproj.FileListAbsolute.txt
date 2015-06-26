@@ -1,0 +1,1 @@
+D:\Telerik Academy\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config

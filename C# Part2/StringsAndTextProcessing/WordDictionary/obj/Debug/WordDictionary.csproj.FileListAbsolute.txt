@@ -1,0 +1,1 @@
+D:\Telerik Academy\StringsAndTextProcessing\WordDictionary\bin\Debug\WordDictionary.exe.config

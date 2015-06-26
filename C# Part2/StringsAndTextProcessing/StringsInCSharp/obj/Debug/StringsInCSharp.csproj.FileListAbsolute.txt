@@ -1,0 +1,1 @@
+D:\Telerik Academy\StringsAndTextProcessing\StringsInCSharp\bin\Debug\StringsInCSharp.exe.config

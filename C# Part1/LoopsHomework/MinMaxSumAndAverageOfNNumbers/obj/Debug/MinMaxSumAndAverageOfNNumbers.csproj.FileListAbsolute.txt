@@ -1,0 +1,6 @@
+D:\Telerik Academy\LoopsHomework\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe.config
+D:\Telerik Academy\LoopsHomework\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe
+D:\Telerik Academy\LoopsHomework\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+D:\Telerik Academy\LoopsHomework\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.exe
+D:\Telerik Academy\LoopsHomework\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+D:\Telerik Academy\LoopsHomework\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache

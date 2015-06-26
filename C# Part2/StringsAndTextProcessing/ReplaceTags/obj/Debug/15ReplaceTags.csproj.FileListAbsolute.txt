@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe
+D:\Telerik Academy\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.pdb
+D:\Telerik Academy\StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.exe
+D:\Telerik Academy\StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.pdb

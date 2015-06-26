@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\WordsCount\bin\Debug\WordsCount.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\WordsCount\bin\Debug\WordsCount.exe
+D:\Telerik Academy\StringsAndTextProcessing\WordsCount\bin\Debug\WordsCount.pdb
+D:\Telerik Academy\StringsAndTextProcessing\WordsCount\obj\Debug\WordsCount.exe
+D:\Telerik Academy\StringsAndTextProcessing\WordsCount\obj\Debug\WordsCount.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\PrimitiveDataTypesAndVariablesHomework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+D:\Telerik Academy\PrimitiveDataTypesAndVariablesHomework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+D:\Telerik Academy\PrimitiveDataTypesAndVariablesHomework\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+D:\Telerik Academy\PrimitiveDataTypesAndVariablesHomework\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+D:\Telerik Academy\PrimitiveDataTypesAndVariablesHomework\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

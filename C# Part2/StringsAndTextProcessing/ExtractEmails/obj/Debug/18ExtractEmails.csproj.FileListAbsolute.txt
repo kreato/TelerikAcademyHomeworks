@@ -1,0 +1,6 @@
+D:\Telerik Academy\StringsAndTextProcessing\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\ExtractEmails\bin\Debug\ExtractEmails.exe
+D:\Telerik Academy\StringsAndTextProcessing\ExtractEmails\bin\Debug\ExtractEmails.pdb
+D:\Telerik Academy\StringsAndTextProcessing\ExtractEmails\obj\Debug\18ExtractEmails.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\ExtractEmails\obj\Debug\ExtractEmails.exe
+D:\Telerik Academy\StringsAndTextProcessing\ExtractEmails\obj\Debug\ExtractEmails.pdb

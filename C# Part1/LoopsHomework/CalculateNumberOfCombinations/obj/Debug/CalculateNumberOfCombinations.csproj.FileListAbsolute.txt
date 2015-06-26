@@ -1,0 +1,1 @@
+D:\Telerik Academy\LoopsHomework\CalculateNumberOfCombinations\bin\Debug\CalculateNumberOfCombinations.exe.config

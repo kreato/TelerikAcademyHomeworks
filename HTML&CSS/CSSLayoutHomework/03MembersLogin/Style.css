@@ -1,0 +1,43 @@
+#Container {
+    background-color: #3B3B3B;
+    border-radius: 8px;
+    width: 50%;
+    margin: auto;
+    font-family: Arial;
+}
+body header {
+    padding: 8px;
+    vertical-align: middle;
+    border-bottom: 2px solid #2E2E2E;
+}
+img {
+    float: left;
+    display: inline-block;
+    height: 40px;
+}
+input[type=text] {
+    width: 155px;
+    margin: 8px;
+}
+input[type=image] {
+    float: right;
+}
+label {
+    color: #FFFFFF;
+    font-size: 1.25em;
+    margin-left: 5px;
+}
+body section {
+    padding: 8px;
+    color: #A2A2A2;
+}
+h1 {
+    color: #FBD721;
+}
+a {
+    text-decoration: none;
+    color: #A2A2A2;
+}
+span {
+    color: white;
+}

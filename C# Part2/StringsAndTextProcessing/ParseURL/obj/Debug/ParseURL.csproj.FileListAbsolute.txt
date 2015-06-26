@@ -1,0 +1,1 @@
+D:\Telerik Academy\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config

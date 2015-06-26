@@ -1,0 +1,62 @@
+div, nav, ul, li, section, p, fieldset,  aside {
+    padding: 0;
+    margin: 0 auto; 
+}
+#wrapper {
+    width: 1075px;
+    height: 781px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: Corbel, Georgia, 'Times New Roman', serif;
+}
+nav ul {
+    text-align: center;
+    font-size: 2.2em;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a{
+    color: #00AEEF;
+    font-weight: bold;
+}
+body hr {
+    border: 1px solid black;
+}
+section {
+    border: 2px solid black;
+    width: 66%;
+    padding: 15px;
+    float: left;
+    font-size: 1.6em
+}
+section img {
+    width: 170px;
+    padding-bottom: 10px;
+    float: left;
+}
+fieldset {
+    display:inline-block;
+    width: 320px;
+    padding: 10px;
+    border: 2px solid black;
+}
+fieldset p:first-of-type {
+    margin-top: 40px;
+}
+fieldset>p:nth-child(4) {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+fieldset p:last-of-type {
+    float: right;
+    padding-right: 50px;
+}
+aside {
+    float: right;
+    font-size: 2em;
+    text-align: center;
+    padding-right: 20px;
+    padding-top: 15%;
+}

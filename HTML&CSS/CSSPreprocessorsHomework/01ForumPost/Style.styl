@@ -1,0 +1,204 @@
+clearfix()
+	zoom 1
+	&:after
+		display block
+		content ''
+		clear both
+		height 0
+
+gradient(stops)
+	str = 'linear-gradient(to bottom,'
+	
+	len = length(stops)
+	i = 1
+	
+	for stop in stops
+		str = str + stop
+		if i is not len
+			str = str + ', '
+		i = i + 1
+
+	str = str + ')'
+	unquote(str)
+	
+
+themeBgColor = gradient(#d392fe (#8f19ef 25%) (#9215f2 70%)), no-repeat
+themeFontColor = white
+linkFontColor = #d392fe
+borderColor = #603382
+
+.clearfix, body header div#header-container, body header nav, body header nav ul, body header nav ul li ul.sub-nav-list, body section, body aside
+	zoom 1
+.clearfix:after, body header div#header-container:after, body header nav:after, body header nav ul:after, body header nav ul li ul.sub-nav-list:after, body section:after, body aside:after, .clearfix:before, body header div#header-container:before, body header nav:before, body header nav ul:before, body header nav ul li ul.sub-nav-list:before, body section:before, body aside:before
+	content "\0020"
+	display block
+	height 0
+	overflow hidden
+body, header, section, footer, article, h1, h2, h3, h4, h5, h6, input, button, label, p, fieldset, nav, ul, li, a, span, strong, em
+	margin 0
+	padding 0
+	border 0
+div, h1, h3, h4, h5, h6, header, footer, body, section, nav, article, aside 
+	display block
+img
+	height 50px
+#container
+	background themeBgColor
+	
+body
+	color themeFontColor
+	font 14px normal Arial
+	header
+		padding-top 25px
+		padding-bottom 5px
+		padding-right 15px
+		padding-left 15px
+		div#header-container div#logo-container
+			float left
+			position relative
+		div#header-container div#reg-form-container
+			float right
+			position relative
+			right 5%
+			top 50%
+			div
+				text-align right
+				label
+					width 50px
+					margin 5px
+				input
+					width 130px
+					border 1px solid borderColor
+					border-radius 10px
+					padding 2px 5px
+					margin 5px
+					background-color #b35ef3
+			button
+				margin-left auto
+				margin-right auto
+				font-weight bold
+				border 1px solid borderColor
+				border-style outset
+				border-radius 10px
+				padding 5px 8px
+				color themeFontColor
+				background-color transparent
+				&:hover
+					background-color #8949b9
+					border-style inset
+		nav
+			display inline-block
+			width 75%
+			margin 20px 20px 20px 20px
+			padding 12px
+			border 2px solid #000
+			border-radius 15px
+			ul.nav-list
+				list-style-type none
+			ul li
+				float left
+				margin 0
+				a
+					padding 0 10px 0 10px
+					color themeFontColor
+					font 1.4em normal Arial
+				a.selected
+					font-weight bold
+				ul.sub-nav-list
+					position absolute
+					display none
+					background-color rgba(179, 94, 243, 0.9)
+					border-radius 5px
+				ul li
+					float none
+					margin 0 15px
+					padding 0 10px
+					border-bottom 1px solid black
+				ul li:last-of-type
+					border-bottom none
+				ul li > a
+					font-size 1.2em
+			ul li:hover > a
+				color #a8a8a8
+				+ ul
+					display block
+	section
+		width 75%
+		float left
+		article
+			margin 20px
+			padding 20px
+			border 1px solid black
+			border-radius 10px
+			header
+				background none
+				padding 5px
+				h1
+					font-size 1.4em
+					padding 0
+			footer
+				padding 5px
+				p
+					font-size 16px
+					text-align right
+					font-weight normal
+					time
+						font-family Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace
+	aside
+		float left
+		width 20%
+		margin 20px
+		> ul
+			list-style-type none
+			> li
+				margin 15px 0
+				padding 15px
+				border 1px solid black
+				border-radius 5px
+				h2
+					font-size 1.1em
+					font-weight bold
+				p
+					margin-top 10px
+					margin-right 5px
+					margin-bottom 10px
+					margin-left 5px
+					font-size 14px
+					strong
+						color #ccc
+						font-weight bold
+						font-style normal
+					em
+						color #ccc
+						font-weight normal
+						font-style italic
+				ul
+					list-style-type none
+					margin-top 10px
+					margin-right 0
+					margin-bottom 10px
+					margin-left 0
+					li
+						margin-top 5px
+						margin-left 10px
+						margin-bottom 0
+						margin-right 0
+						background url(li-dot.png) no-repeat
+						background-position 0 50%
+						padding-left 25px
+	footer
+		clear both
+		padding-top 15px
+		padding-bottom 25px
+		padding-right 0
+		padding-left 0
+		p
+			font-size 1.2em
+			font-weight bold
+			text-align center
+a
+	color linkFontColor
+	text-decoration none
+	&:hover
+		color darken(linkFontColor, 50%)
+		text-decoration underline

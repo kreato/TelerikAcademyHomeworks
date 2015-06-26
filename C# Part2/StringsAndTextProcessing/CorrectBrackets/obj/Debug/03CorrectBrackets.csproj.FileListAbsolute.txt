@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+D:\Telerik Academy\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+D:\Telerik Academy\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+D:\Telerik Academy\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

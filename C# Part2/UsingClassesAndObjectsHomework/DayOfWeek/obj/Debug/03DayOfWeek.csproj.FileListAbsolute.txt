@@ -1,0 +1,5 @@
+D:\Telerik Academy\UsingClassesAndObjectsHomework\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\Telerik Academy\UsingClassesAndObjectsHomework\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\Telerik Academy\UsingClassesAndObjectsHomework\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\Telerik Academy\UsingClassesAndObjectsHomework\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\Telerik Academy\UsingClassesAndObjectsHomework\DayOfWeek\obj\Debug\DayOfWeek.pdb

@@ -1,0 +1,46 @@
+table {
+	background-color: #595959;
+	font-family: Arial;
+	text-align: left;
+	width: 325px;
+}
+th {
+	color: #BBBBBB;
+	font-weight: normal;
+	padding-top: 8px;
+}
+td {
+	vertical-align: top;
+	font-size: 11px;
+	padding-top: 10px;
+}
+tr>td:first-child {
+font-style: italic;
+color: #FFFFFF;
+width: 35%;
+}
+a:link {
+	color: #FDF7B4; 
+	text-decoration: none;
+}
+.name:before {
+	content: "•";
+	font-size: 35px;
+	line-height: 14px;
+	vertical-align: top;
+	color: #71B47A;
+}
+.name {
+	color: #FDF7B4;
+}
+span {
+	color: #CC0000;
+	font-weight: bold;
+}
+.gray {
+	color: #BBBBBB;
+}
+.orange {
+	color: #da6f34;
+	font-weight: bold;
+}

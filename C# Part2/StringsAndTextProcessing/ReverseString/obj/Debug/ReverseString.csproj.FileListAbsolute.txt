@@ -1,0 +1,1 @@
+D:\Telerik Academy\StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config

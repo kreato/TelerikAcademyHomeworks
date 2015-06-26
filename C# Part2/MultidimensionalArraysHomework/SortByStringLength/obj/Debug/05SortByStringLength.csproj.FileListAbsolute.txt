@@ -1,0 +1,1 @@
+D:\Telerik Academy\MultidimensionalArraysHomework\SortByStringLength\bin\Debug\SortByStringLength.exe.config

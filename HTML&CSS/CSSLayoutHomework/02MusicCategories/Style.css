@@ -1,0 +1,48 @@
+#container {
+    width: 500px;
+    margin: auto;
+    padding: 8px;
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+h1 {
+    font-weight: normal;
+    font-size: 16px;
+    padding-left: 8px;
+}
+.article {
+    width: 484px;
+    height: 118px;
+    margin: auto;
+    background-color: #FFFFFF;
+    border: 1px solid #999999;
+    margin-bottom: 25px;
+}
+img {
+    margin: 16px;
+    float: left;
+    border: 1px solid #999999;
+}
+button {
+    float: right;
+    width: 77px;
+    height: 25px;
+    background-image: url('buttons.png');
+    margin-right: 16px;
+    margin-top: -10px;
+    border: none;
+    color: #FFFFFF;
+}
+button + button {
+    margin-right: 2px;
+}
+div div.article:last-of-type {
+    margin-bottom: 8px;
+}
+div div.article:first-of-type {
+    margin-top: 16px;
+}
+#empty-line-after {
+    margin-bottom: 35px;
+}

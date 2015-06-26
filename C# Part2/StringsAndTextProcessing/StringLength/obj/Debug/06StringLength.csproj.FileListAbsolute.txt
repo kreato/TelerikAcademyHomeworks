@@ -1,0 +1,5 @@
+D:\Telerik Academy\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe
+D:\Telerik Academy\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
+D:\Telerik Academy\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
+D:\Telerik Academy\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb

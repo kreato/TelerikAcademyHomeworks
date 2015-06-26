@@ -1,0 +1,6 @@
+D:\Telerik Academy\LoopsHomework\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.exe.config
+D:\Telerik Academy\LoopsHomework\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.exe
+D:\Telerik Academy\LoopsHomework\PrintADeckOf52Cards\obj\Debug\PrintADeckOf52Cards.pdb
+D:\Telerik Academy\LoopsHomework\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.exe
+D:\Telerik Academy\LoopsHomework\PrintADeckOf52Cards\bin\Debug\PrintADeckOf52Cards.pdb
+D:\Telerik Academy\LoopsHomework\PrintADeckOf52Cards\obj\Debug\04PrintADeckOf52Cards.csprojResolveAssemblyReference.cache

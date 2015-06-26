@@ -1,0 +1,3 @@
+D:\Telerik Academy\LoopsHomework\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe.config
+D:\Telerik Academy\LoopsHomework\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.exe
+D:\Telerik Academy\LoopsHomework\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.pdb

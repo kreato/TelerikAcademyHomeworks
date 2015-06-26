@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Binary search</title>
+	<style>
+		h1 {
+			color: #A7C942;
+		}
+
+		label {
+			color: #a4a569;
+			font-weight: bolder;
+			font-size: larger;
+		}
+
+		#label-result {
+			margin-left: 50px;
+		}
+		#number {
+			margin-left: 25px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Problem 7. Binary search</h1>
+	<ul>
+		<li>Write a script that finds the index of given element in a sorted array of integers by using the <a href="http://en.wikipedia.org/wiki/Binary_search_algorithm">binary search</a> algorithm.</li>
+	</ul>
+	<p>
+		<label for="input">Enter a sequence of numbers <br />separated by ', ':</label>
+		<input type="text" id="input" name="enterASequence">
+		<br />
+		<label for="number">Enter an element from <br />the sequence:</label>
+		<input type="text" id="number" name="enterANumber">
+		<button onclick="binSearch()">Search</button>
+		<label id="label-result">Index of this element:</label>
+        <input type="text" id="result" disabled="disabled" />
+	</p>
+	<script src="Binary search.js"></script>
+</body>
+</html>

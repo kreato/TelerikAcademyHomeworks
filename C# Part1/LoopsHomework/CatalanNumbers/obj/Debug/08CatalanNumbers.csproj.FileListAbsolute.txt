@@ -1,0 +1,3 @@
+D:\Telerik Academy\LoopsHomework\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+D:\Telerik Academy\LoopsHomework\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+D:\Telerik Academy\LoopsHomework\CatalanNumbers\obj\Debug\CatalanNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\StringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+D:\Telerik Academy\StringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+D:\Telerik Academy\StringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+D:\Telerik Academy\StringsAndTextProcessing\SeriesOfLetters\obj\Debug\23SeriesOfLetters.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\StringsAndTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+D:\Telerik Academy\StringsAndTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb
