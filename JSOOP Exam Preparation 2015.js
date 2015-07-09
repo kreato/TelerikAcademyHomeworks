@@ -418,12 +418,3 @@ function solve() {
 
     return module;
 }
-var module = solve();
-
-player = module.getPlayer('pesho');
-playlist = module.getPlaylist('gosho');
-player.addPlaylist(playlist);
-var audio = module.getAudio('ivan', 'ivanov', 4);
-playlist.addPlayable(audio);
-
-console.log(player.search('van'));
